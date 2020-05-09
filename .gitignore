@@ -27,3 +27,9 @@ hs_err_pid*
 *.mf
 *.properties
 /Debugging/build/
+/Documentacion_Software/nbproject/private/
+/Documentacion_Software/dist/
+/Documentacion_Software/build/
+/Documentación_Software/nbproject/private/
+/Documentación_Software/dist/
+/Documentación_Software/build/
